@@ -1,4 +1,4 @@
-_Callback({"ret":0,"url":"auth://tauth.qq.com/#access_token=0E5639FD2FD7CFCBA65BE13BBC85244D&expires_in=5184000&openid=75252D531C382E62091021C83CCF698F&pay_token=75252D531C382E62091021C83CCF698F&ret=0&pf=desktop_m_qq-10000
+_Callback({"ret":0,"url":"auth://tauth.qq.com/#access_token=0E5639FD2FD7CFCBA65BE13BBC85244D&expires_in=5184000&openid=75252D531C382E62091021C83CCF698F&pay_token=75252D531C382E62091021C83CCF698F&ret=0&pf=desktop_m_qq-10000"})
 
 
 _Callback({"ret":0,"url":"auth://tauth.qq.com/#access_token=1B647A4FEFE838E08B636BCCD68550DB&expires_in=5184000&openid=83AA405A631259CA974883F5069CF4F9&pay_token=83AA405A631259CA974883F5069CF4F9&ret=0&pf=desktop_m_qq-10000"})
