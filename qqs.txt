@@ -2,3 +2,15 @@ _Callback({"ret":0,"url":"auth://tauth.qq.com/#access_token=0E5639FD2FD7CFCBA65B
 
 
 _Callback({"ret":0,"url":"auth://tauth.qq.com/#access_token=1B647A4FEFE838E08B636BCCD68550DB&expires_in=5184000&openid=83AA405A631259CA974883F5069CF4F9&pay_token=83AA405A631259CA974883F5069CF4F9&ret=0&pf=desktop_m_qq-10000"})
+
+
+_Callback({"ret":0,"url":"auth://tauth.qq.com/?#access_token=68773E00328724E2081378AC64342C3F&expires_in=5184000&openid=4DC2067A3BF6B2CDA37103939D926A3E&pay_token=68773E00328724E2081378AC64342C3F&ret=0&pf=desktop_m_qq-10000144-android-2002-&pfkey=f600ebeb33d403f5a64e1af932a0b79d&auth_time=1727076078&page_type=0"});
+
+
+_Callback({"ret":0,"url":"auth://tauth.qq.com/?#access_token=1DF21FC127114AAF2AD9E262FBEEC142&expires_in=5184000&openid=8EA78746C4549E0A3064AFC2C479F2A2&pay_token=1DF21FC127114AAF2AD9E262FBEEC142&ret=0&pf=desktop_m_qq-10000144-android-2002-&pfkey=f600ebeb33d403f5a64e1af932a0b79d&auth_time=1727076078&page_type=0"});
+
+
+_Callback({"ret":0,"url":"auth://tauth.qq.com/?#access_token=F45FF773AD840EF890C78584A08A428A&expires_in=5184000&openid=1F7D2EDD00C704019C8BB270F7857B22&pay_token=F45FF773AD840EF890C78584A08A428A&ret=0&pf=desktop_m_qq-10000144-android-2002-&pfkey=f600ebeb33d403f5a64e1af932a0b79d&auth_time=1727076078&page_type=0"});
+
+
+_Callback({"ret":0,"url":"auth://tauth.qq.com/?#access_token=B74F17DF2522547F6B0AE2573CC3CF40&expires_in=5184000&openid=448B7282C3A409B0617520032DFCDFD4&pay_token=B74F17DF2522547F6B0AE2573CC3CF40&ret=0&pf=desktop_m_qq-10000144-android-2002-&pfkey=f600ebeb33d403f5a64e1af932a0b79d&auth_time=1727076078&page_type=0"});
